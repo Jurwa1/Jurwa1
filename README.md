@@ -2,4 +2,4 @@
 
 ### Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,vscode,windows,gemini)](https://skillicons.dev)
